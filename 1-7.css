@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.main-visual {
+  background-image: url(chapter7_exercise/img/mv.jpg);
+  width: 100%;
+  height: 400px;
+  background-size: cover;
+  background-position: bottom;
+}
+
+.main-visual-text {
+  padding: 20px;
+}
+
+main {
+  color: #acabab;
+  width: 840px;
+  margin: 50px auto;
+}
+
+.service1 {
+  margin-bottom: 30px;
+  border-bottom: 1px solid #acabab;
+  padding-bottom: 30px;
+}
+
+.service2 {
+  padding-bottom: 30px;
+  margin-bottom: 30px;
+}
+
+.service3 {
+  border-bottom: 1px solid #acabab;
+  padding-bottom: 30px;
+  margin-bottom: 30px;
+}
+
+.service4 {
+  border-bottom: 1px solid #acabab;
+  padding-bottom: 30px;
+}
